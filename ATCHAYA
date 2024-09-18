@@ -1,0 +1,4 @@
+CREATE TABLE employee(id INT PRIMARY KEY AUTO_INCREMENT,name VARCHAR(55)NOT NULL,email VARCHAR(44)UNIQUE,phone_number VARCHAR(15);
+Describe table structure DESCRIBE contacts
+INSERT INTO contacts('ATCHAYA','atchayaariharann@gmail.com','9791678928');
+SELECT*FROM contacts);
